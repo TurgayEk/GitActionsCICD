@@ -92,4 +92,9 @@ public class CalculatorTests {
         Assertions.assertTrue(Double.isNaN(circum));
     }
 
+    @Test
+    void newTest(){
+        Assertions.assertTrue(true);
+    }
+
 }
